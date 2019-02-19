@@ -6,7 +6,7 @@
 | Patrons          | Liens                                                | Commentaires                                |
 |------------------|------------------------------------------------------|---------------------------------------------|
 | Scala Seed       | https://github.com/CollegeBoreal/scala-seed.g8       |                                             |
-| Scala List Seed  | https://github.com/CollegeBoreal/scala-list-seed.g8  | FP :red_book: Listing 3.1                   |
+| Scala List Seed  | https://github.com/CollegeBoreal/scala-list-seed.g8  | FP :closed_book: Listing 3.1                   |
 
 
 
