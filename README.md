@@ -16,5 +16,5 @@
 | Patrons          | Liens                                                | Commentaires                                |
 |------------------|------------------------------------------------------|---------------------------------------------|
 | Play Slick MySQL | https://github.com/CollegeBoreal/play-slick-mysql.g8 |                                             |
-| Play Silhouette Slick | https://github.com/CollegeBoreal/play-silhouette-slick.g8 |                          |
+| Play Silhouette Slick | https://github.com/CollegeBoreal/play-silhouette-slick-mysql.g8 |                          |
 | Play Silhouette Mongo | https://github.com/CollegeBoreal/play-silhouette-reactive-mongo.g8 |                          |
